@@ -4,5 +4,5 @@ I'm a **Computer Engineer** with a deep interest in **cybersecurity**, particula
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oscarsanchezrubio.03@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/oscar-s-r)
+[![Email](https://img.shields.io/badge/Email-oscarsanchezrubio.03@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscarsanchezrubio.03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Óscar%20Sánchez%20Rubio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oscar-s-r)
