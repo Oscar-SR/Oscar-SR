@@ -6,4 +6,4 @@ I'm a **Computer Engineer** with a deep interest in **cybersecurity**, particula
 
 [![Email](https://img.shields.io/badge/Email-oscarsanchezrubio.03@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscarsanchezrubio.03@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Óscar%20Sánchez%20Rubio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oscar-s-r)
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-OscarSR-28a745?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/2678470)
+[![Hack The Box](https://img.shields.io/badge/*Hack*TheBox-OscarSR-28a745?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/2678470)
